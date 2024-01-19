@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/streamlit/streamlit#readme",
   "dependencies": {
-    "apache-arrow": "^11.0.0",
+    "apache-arrow": "^14.0.2",
     "hoist-non-react-statics": "^3.3.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
